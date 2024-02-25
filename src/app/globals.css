@@ -39,8 +39,6 @@ body {
 }
 
 img {
-  width: 100%;
-  height: auto;
   transition: .3s ease all;
   -webkit-transition: .3s ease all;
   -moz-transition: .3s ease all;
